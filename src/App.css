@@ -1,0 +1,38 @@
+@media only screen and (max-width: 600px) {
+  .font-mobile {
+    font-size: large;
+    font-weight: 900;
+  }
+
+  .fmb {
+    font-size: small;
+  }
+
+  #Homepageimg {
+    max-width: 85vw;
+    /* border: 3px solid red; */
+  }
+
+  .mytext {
+    size: 25px;
+    font-size: 1.5rem;
+    font-weight: 900;
+  }
+  .smalltext {
+  }
+}
+
+/* for memes  */
+
+#myimg {
+  max-width: 90vw;
+  max-height: 60vh;
+  margin: 0 auto;
+}
+#Homepageimg {
+  max-height: 50vh;
+}
+
+.allicons {
+  fill: aqua;
+}
